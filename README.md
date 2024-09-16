@@ -2,7 +2,7 @@
 
 Aplicacion diseñada para desafio práctico, Usando Vue 3 + Pinia + Tailwindcss y conectandonos a una api publica:
 ```sh
-https://animechan.io/docs
+https://api.jikan.moe
 ```
 
 
